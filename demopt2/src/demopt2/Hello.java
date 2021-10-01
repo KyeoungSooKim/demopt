@@ -1,4 +1,4 @@
-package demopt;
+package demopt2;
 
 public class Hello {
 
